@@ -1,0 +1,1 @@
+This repo includes a Human Kinetics model that estimates TDEE based on 6 inputs. Users can input their data and get an estimated TDEE. Useful for athletes, fitness enthusiasts, or weight management. Written in Python.
